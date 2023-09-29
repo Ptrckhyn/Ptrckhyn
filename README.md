@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ptrckhyn
-- 👀 I’m interested in being fullstack web and app developer
-- 🌱 I’m currently learning Web development
+- 👀 I’m trying to learn how to becom a DevOps
 
 <!---
 Ptrckhyn/Ptrckhyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
